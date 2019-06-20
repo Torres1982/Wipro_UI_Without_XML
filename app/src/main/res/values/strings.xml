@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wipro UI Without XML</string>
+    <string name="left_edit_text">Left Edit Text</string>
+    <string name="right_edit_text">Right Edit Text</string>
+    <string name="red_button">Red Button</string>
+    <string name="blue_button">Blue Button</string>
+</resources>
